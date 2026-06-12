@@ -41,7 +41,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=tanisham2&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisham2&layout=compact&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=tanisham2&theme=tokyonight)
 
 
 ## 🌟 Featured Projects
@@ -49,16 +48,16 @@
 ###  [FastGrocery](https://github.com/tanisham2/FastGrocery_fullstack)
 - Full-stack grocery shopping platform built using Next.js, Node.js, Express.js, and MongoDB.
 
-###   AI Expense Forecasting
+###  [AI Expense Forecasting](https://github.com/tanisham2/AI-Expense-Tracker)
 - Machine Learning project for expense categorization and future expense prediction.
 
-###   Blockchain Voting System
+### [Blockchain Voting System](https://github.com/tanisham2/Voting_System)
 - Secure voting system using blockchain concepts and smart contracts.
 
-### Attendance Management System
+### [Attendance Management System](https://github.com/tanisham2/Attendance_System)
 - Web-based attendance tracking system that enables attendance marking, record management, and attendance reporting for students and faculty.
 
-###  Auth API Backend
+### [Auth API Backend](https://github.com/tanisham2/auth-api)
 - RESTful authentication and authorization API built with Node.js, Express.js, MongoDB, JWT, and bcrypt. Supports user registration, login, protected routes, role-based access control, and secure token-based authentication.
 
 
