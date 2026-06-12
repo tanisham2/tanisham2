@@ -1,11 +1,12 @@
 # Hi there 👋 
+### Full-Stack Developer | AIML Student | Blockchain Enthusiast
 
 ## 🚀 About Me
 
 - Currently pursuing BTech CSE (AIML)
-- Building projects MERN Stack, and in AIML
-- Interested in exploring concepts of DSA, OOPs, RBMS
-- Actively participate in College activites and clubs
+- Building full-stack web applications using the MERN stack and working on machine learning solutions
+- Exploring Data Structures & Algorithms, OOP, DBMS, and Blockchain
+- Actively participating in college clubs, technical events, and community initiatives
 
 ## 🛠️ Tech Stack
 
@@ -21,19 +22,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-121D33?style=for-the-badge)
 ![Cryptography](https://img.shields.io/badge/Cryptography-4285F4?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
@@ -44,10 +41,12 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=tanisham2&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisham2&layout=compact&theme=tokyonight)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=tanisham2&theme=tokyonight)
+
 
 ## 🌟 Featured Projects
 
-###  FastGrocery
+###  [FastGrocery](https://github.com/tanisham2/FastGrocery_fullstack)
 - Full-stack grocery shopping platform built using Next.js, Node.js, Express.js, and MongoDB.
 
 ###   AI Expense Forecasting
