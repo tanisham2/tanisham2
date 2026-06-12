@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-Currently pursuing BTech CSE (AIML)
-Learning MERN Stack, and building projects in AIML
-Interested in exploring concepts of DSA, OOPs, RBMS
-Actively participate in College activites and clubs
+- Currently pursuing BTech CSE (AIML)
+- Learning MERN Stack, and building projects in AIML
+- Interested in exploring concepts of DSA, OOPs, RBMS
+- Actively participate in College activites and clubs
 
 ## 🛠️ Tech Stack
 
@@ -27,6 +27,8 @@ Actively participate in College activites and clubs
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-121D33?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-4285F4?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
