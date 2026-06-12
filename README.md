@@ -39,19 +39,19 @@ Actively participate in College activites and clubs
 
 ## 🌟 Featured Projects
 
-####  FastGrocery
+###  FastGrocery
 - Full-stack grocery shopping platform built using Next.js, Node.js, Express.js, and MongoDB.
 
-####   AI Expense Forecasting
+###   AI Expense Forecasting
 - Machine Learning project for expense categorization and future expense prediction.
 
-####   Blockchain Voting System
+###   Blockchain Voting System
 - Secure voting system using blockchain concepts and smart contracts.
 
-#### Attendance Management System
+### Attendance Management System
 - Web-based attendance tracking system that enables attendance marking, record management, and attendance reporting for students and faculty.
 
-####  Auth API Backend
+###  Auth API Backend
 - RESTful authentication and authorization API built with Node.js, Express.js, MongoDB, JWT, and bcrypt. Supports user registration, login, protected routes, role-based access control, and secure token-based authentication.
 
 
