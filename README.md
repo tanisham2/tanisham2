@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-- Currently pursuing BTech CSE (AIML)
+- BTech Computer Science & Engineering (AIML) student
 - Building full-stack web applications using the MERN stack and working on machine learning solutions
 - Exploring Data Structures & Algorithms, OOP, DBMS, and Blockchain
 - Actively participating in college clubs, technical events, and community initiatives
