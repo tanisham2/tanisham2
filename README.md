@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - Currently pursuing BTech CSE (AIML)
-- Learning MERN Stack, and building projects in AIML
+- Building projects MERN Stack, and in AIML
 - Interested in exploring concepts of DSA, OOPs, RBMS
 - Actively participate in College activites and clubs
 
