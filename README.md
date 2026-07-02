@@ -44,9 +44,8 @@
 ## 📊 GitHub Stats
 
 ![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanisham2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=tanisham2&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=tanisham2&theme=tokyonight&count_private=true&timezone=Asia/Kolkata)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisham2&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
-
 
 
 ## 🌟 Featured Projects
