@@ -38,7 +38,17 @@
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanisham2&show_icons=true&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=tanisham2&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisham2&layout=compact&theme=tokyonight&hide_border=true)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=tanisham2&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanisham2&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://komarev.com/ghpvc/?username=tanisham2&color=blueviolet&style=flat-square)
 
 
 ## 🌟 Featured Projects
