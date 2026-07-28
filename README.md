@@ -42,20 +42,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanisham2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisham2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisham2&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanisham2&theme=tokyonight&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/409ba5/tanisham2" alt="GitHub Contribution Chart"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanisham2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisham2&theme=tokyo-night"/>
+  <img src="https://komarev.com/ghpvc/?username=tanisham2&style=for-the-badge&color=blueviolet"/>
 </p>
 
 
