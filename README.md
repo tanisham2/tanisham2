@@ -38,17 +38,25 @@
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanisham2&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tanisham2&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisham2&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanisham2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisham2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=tanisham2&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanisham2&theme=tokyonight&hide_border=true"/>
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanisham2&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanisham2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=tanisham2&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisham2&theme=tokyo-night"/>
+</p>
 
 
 ## 🌟 Featured Projects
