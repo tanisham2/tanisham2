@@ -47,7 +47,7 @@
 ###  [FastGrocery](https://github.com/tanisham2/FastGrocery_fullstack)
 - Full-stack grocery shopping platform built using Next.js, Node.js, Express.js, and MongoDB.
 
-  ### [ChatX](https://github.com/tanisham2/Chat-Application)
+### [ChatX](https://github.com/tanisham2/Chat-Application)
 - Real-time chat application built using Node.js, Express.js, and Socket.IO with chat rooms, online/offline status, typing indicators, and real-time messaging.
 
 ###  [AI Expense Forecasting](https://github.com/tanisham2/AI-Expense-Tracker)
