@@ -33,25 +33,13 @@
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-121D33?style=for-the-badge)
 ![Cryptography](https://img.shields.io/badge/Cryptography-4285F4?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisham2&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/tanisham2" alt="GitHub Contribution Chart"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanisham2&style=for-the-badge&color=blueviolet"/>
-</p>
 
 
 ## 🌟 Featured Projects
@@ -59,17 +47,14 @@
 ###  [FastGrocery](https://github.com/tanisham2/FastGrocery_fullstack)
 - Full-stack grocery shopping platform built using Next.js, Node.js, Express.js, and MongoDB.
 
+  ### [ChatX](https://github.com/tanisham2/Chat-Application)
+- Real-time chat application built using Node.js, Express.js, and Socket.IO with chat rooms, online/offline status, typing indicators, and real-time messaging.
+
 ###  [AI Expense Forecasting](https://github.com/tanisham2/AI-Expense-Tracker)
 - Machine Learning project for expense categorization and future expense prediction.
 
-### [Blockchain Voting System](https://github.com/tanisham2/Voting_System)
-- Secure voting system using blockchain concepts and smart contracts.
-
 ### [Attendance Management System](https://github.com/tanisham2/Attendance_System)
 - Web-based attendance tracking system that enables attendance marking, record management, and attendance reporting for students and faculty.
-
-### [Auth API Backend](https://github.com/tanisham2/auth-api)
-- RESTful authentication and authorization API built with Node.js, Express.js, MongoDB, JWT, and bcrypt. Supports user registration, login, protected routes, role-based access control, and secure token-based authentication.
 
 
 ## 📫 Connect With Me
