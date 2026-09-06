@@ -3,9 +3,9 @@
 
 ## 🚀 About Me
 
-- BTech Computer Science & Engineering (AIML) student.
+- B.Tech Computer Science & Engineering (AIML) student.
 - Building full-stack web applications using modern technologies and developing machine learning solutions.
-- EStrengthening skills in Data Structures & Algorithms, OOPs, DBMS, Computer Networks, and Operating Systems.
+- Strengthening skills in Data Structures & Algorithms, OOPs, DBMS, Computer Networks, and Operating Systems.
 - Actively participating in college clubs, technical events, and community initiatives.
 
 ## 🛠️ Tech Stack
@@ -34,6 +34,7 @@
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
