@@ -1,12 +1,12 @@
 # Hi there 👋 
-### Full-Stack Developer | AIML Student | Blockchain Enthusiast
+### Full-Stack Developer | Backend Engineer | AI/ML Enthusiast
 
 ## 🚀 About Me
 
-- BTech Computer Science & Engineering (AIML) student
-- Building full-stack web applications using the MERN stack and working on machine learning solutions
-- Exploring Data Structures & Algorithms, OOPs, DBMS, and Blockchain
-- Actively participating in college clubs, technical events, and community initiatives
+- BTech Computer Science & Engineering (AIML) student.
+- Building full-stack web applications using modern technologies and developing machine learning solutions.
+- EStrengthening skills in Data Structures & Algorithms, OOPs, DBMS, Computer Networks, and Operating Systems.
+- Actively participating in college clubs, technical events, and community initiatives.
 
 ## 🛠️ Tech Stack
 
@@ -16,11 +16,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,11 +31,9 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-121D33?style=for-the-badge)
-![Cryptography](https://img.shields.io/badge/Cryptography-4285F4?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
