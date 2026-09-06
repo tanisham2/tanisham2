@@ -47,14 +47,14 @@
 ###  [FastGrocery](https://github.com/tanisham2/FastGrocery_fullstack)
 - Full-stack grocery shopping platform built using Next.js, Node.js, Express.js, and MongoDB.
 
-### [ChatX](https://github.com/tanisham2/Chat-Application)
-- Real-time chat application built using Node.js, Express.js, and Socket.IO with chat rooms, online/offline status, typing indicators, and real-time messaging.
+### [Evently](https://github.com/tanisham2/Evently-Ticket-booking)
+- High-concurrency ticket booking project built using Java, Spring Boot, PostgreSQL, Redis, Kafka, and Spring Security with JWT authentication.
 
 ###  [AI Expense Forecasting](https://github.com/tanisham2/AI-Expense-Tracker)
 - Machine Learning project for expense categorization and future expense prediction.
 
-### [Attendance Management System](https://github.com/tanisham2/Attendance_System)
-- Web-based attendance tracking system that enables attendance marking, record management, and attendance reporting for students and faculty.
+### [ChatX](https://github.com/tanisham2/Chat-Application)
+- Real-time chat application built using Node.js, Express.js, and Socket.IO with chat rooms, online/offline status, typing indicators, and real-time messaging.
 
 
 ## 📫 Connect With Me
